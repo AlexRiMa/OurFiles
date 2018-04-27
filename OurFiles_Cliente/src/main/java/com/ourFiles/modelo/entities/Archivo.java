@@ -1,4 +1,4 @@
-package com.ourFiles.modelo;
+package com.ourFiles.modelo.entities;
 
 public class Archivo {
 	
