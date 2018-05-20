@@ -1,5 +1,8 @@
 package com.ourFiles.modelo.entities;
 
+import javax.persistence.Entity;
+
+@Entity
 public class Usuario {
 
 	private String name;
